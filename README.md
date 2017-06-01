@@ -7,6 +7,8 @@ A react native boilerplate to create fast android/ios mobile applications.
 - [ ] Babel
 - [ ] ESLint (Airbnb)
 - [ ] SASS
+- [ ] JSS
+- [ ] stylelint
 - [ ] PostCSS
 - [ ] React
 - [ ] React Router
